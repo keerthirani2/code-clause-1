@@ -1,11 +1,11 @@
 # code-clause-1
 # Color Detection Project
 
-![Color Detection]("C:\Users\Hp\Videos\Captures\Color detection – main.py 2023-08-01 20-41-19.mp4")
+!["C:\Users\Hp\Videos\Captures\Color detection – main.py 2023-08-01 20-41-19.mp4"](demo.gif)
 
 ## Description
 
-This Color Detection project is a real-time system that identifies various colors using Python and OpenCV. It uses the computer's camera to capture live video and detects colors like red, orange, yellow, green, light green, blue, purple, pink, gray, black, white, and more. The detected colors are outlined on the screen, and their names are displayed.
+This Color Detection project is a real-time system that identifies various colors using Python and OpenCV. It uses the computer's camera to capture live video and detects colors like red, orange, yellow, green, light green, blue, purple, pink, grey, black, white, and more. The detected colours are outlined on the screen, and their names are displayed.
 
 ## Key Features
 
